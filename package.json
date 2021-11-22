@@ -1,0 +1,19 @@
+{
+  "name": "basenft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/bignumber": "^5.5.0",
+    "jquery": "^3.6.0",
+    "web3": "^1.6.1"
+  }
+}
